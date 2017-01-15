@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  BabylonHealthDemo
+
+  Created by David Rodrigues on 15/01/2017.
+  Copyright © 2017 David Rodrigues. All rights reserved.
+*/
+
+"posts.title" = "Posts";
+
+"post_details.title" = "Details";
+"post_details.comments.section.text" = "Comments (%d)";
